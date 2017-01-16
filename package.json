@@ -1,0 +1,24 @@
+{
+  "name": "uaa-worker-services",
+  "version": "1.0.0",
+  "description": "Javascript services architecture based on Acceptor/Connector pattern for web workers.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tswindell/js-uaa-worker-services.git"
+  },
+  "author": "Tom Swindell <t.swindell@rubyx.co.uk>",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/tswindell/js-uaa-worker-services/issues"
+  },
+  "homepage": "https://github.com/tswindell/js-uaa-worker-services#readme",
+  "dependencies": {
+    "events": "^1.1.1",
+    "promise": "^7.1.1",
+    "uuid": "^3.0.1"
+  }
+}
